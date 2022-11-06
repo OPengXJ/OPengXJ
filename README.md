@@ -67,10 +67,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Its main projects -->
 
 <p align="center">
-  <a href="https://github.com/OPengXJ/handle-path-oz">
+  <a href="https://github.com/OPengXJ/GoPro">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OPengXJ&repo=GoPro" />
   </a>
-  <a href="https://github.com/OPengXJ/circleci-github-changelog-generator">
+  <a href="https://github.com/OPengXJ/OPengXJ.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OPengXJ&repo=OPengXJ.github.io" />
   </a>
 </p>
